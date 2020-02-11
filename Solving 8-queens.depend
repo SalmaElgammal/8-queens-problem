@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1577113495 source:/home/salma/codeblocks_projects/Solving 8-queens/main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	"State.h"
+	"Queen.h"
+
+1576425722 /home/salma/codeblocks_projects/Solving 8-queens/State.h
+	<vector>
+	<chrono>
+	"Queen.h"
+
+1576286347 /home/salma/codeblocks_projects/Solving 8-queens/Queen.h
+
